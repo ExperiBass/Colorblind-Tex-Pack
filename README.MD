@@ -9,3 +9,4 @@ WIP texture pack for colorblind people, cause theres no updated and functional p
 - [ ] Recolor various items:
 - - [ ] Candles
 - - [ ] Dyes
+- [ ] Possibly give each ore and dye a different shape, if i can find someone whos good at pixel art...
