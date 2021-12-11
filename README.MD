@@ -10,3 +10,6 @@ WIP texture pack for colorblind people, cause theres no updated and functional p
 - - [ ] Candles
 - - [ ] Dyes
 - [ ] Possibly give each ore and dye a different shape, if i can find someone whos good at pixel art...
+
+# Installation
+Get the repo, and either drop the folder into `minecraft/texturepacks` or run `package.sh` (linux only) and drop the zip file created into the texture packs folder. Then enable in-game. Minecraft will complain that the pack is out of date: ignore it, its perfectly updated.
