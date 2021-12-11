@@ -13,3 +13,6 @@ WIP texture pack for colorblind people, cause theres no updated and functional p
 
 # Installation
 Get the repo, and either drop the folder into `minecraft/texturepacks` or run `package.sh` (linux only) and drop the zip file created into the texture packs folder. Then enable in-game. Minecraft will complain that the pack is out of date: ignore it, its perfectly updated.
+
+
+Diamond and iron recolors done by `Rinku Inku#7330`
